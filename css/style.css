@@ -36,22 +36,10 @@ army green: 41521F;
 	background-color: #41521F;
 	color: white;
 	border:transparent;
-}
-.container{
-	margin-right: 100px;
-	margin-top: 50px;
-	margin-bottom: 50px;
-}
+}/*segunda*/
 .textos2{
-	margin-top: 150px;
-	font-size: 15px;
-	color: #41521F;
-}
-h3{
-	color: #A89F68;
-	font-weight: bold;
-}
-h4{
-	color: #A89F68;
-	font-weight: bold;
+	margin-top: 20%;
+	margin-bottom:10%;
+	font-size: 12px;
+	color: #220073;
 }
